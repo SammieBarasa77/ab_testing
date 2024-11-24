@@ -219,8 +219,7 @@ Gender Distribution: Both channels exhibit a balanced performance across genders
 
 ## Recommendations
 
-Cost Optimization:
-
+Cost Optimization
 Since Email and Social Media have comparable conversion rates, prioritize the channel with lower AdSpend per conversion for cost-effective campaigns.
 Use A/B testing on Email campaigns to experiment with personalized content and time-based delivery for higher impact.
 Audience-Specific Campaigns:
@@ -235,6 +234,3 @@ Conduct additional A/B tests to evaluate new strategies, such as interactive soc
 ## Conclusion
 This analysis demonstrates that while both Email and Social Media channels perform similarly in terms of conversion rates, further optimization is required to maximize efficiency. By focusing on cost-effective strategies, tailoring campaigns for specific demographics, and continuously testing new approaches, the digital marketing agency can enhance ROI and overall campaign performance. Future efforts should incorporate user feedback, real-time analytics, and refined testing to stay adaptable in a competitive landscape.
 
-## Conclusion
-
-A/B testing revealed actionable insights into the comparative effectiveness of marketing channels. By targeting investments based on CTR and CostPerClick metrics, the agency can optimize ROI while adapting campaigns for demographic-specific needs.
