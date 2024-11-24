@@ -77,7 +77,11 @@ for column in ['AdSpend', 'TimeOnSite']:
     df = df[(df[column] >= lower_bound) & (df[column] <= upper_bound)]
 ```
 ![Missing Values](https://github.com/SammieBarasa77/ab_testing/blob/main/assets/images/missing_values.png)
+
+
 ![AdSpend](https://github.com/SammieBarasa77/ab_testing/blob/main/assets/images/adspend.png)
+
+
 ![TimeOnSite](https://github.com/SammieBarasa77/ab_testing/blob/main/assets/images/timeon_site.png)
 
 ### Data Type Conversion and Feature Engineering
