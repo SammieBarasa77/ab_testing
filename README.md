@@ -213,10 +213,6 @@ The conversion rates for Email and Social Media channels are nearly identical, i
 Despite comparable conversion rates, other factors like cost-per-click and audience engagement may vary and require deeper analysis.
 Demographic Insights:
 
-Younger Age Groups: Social Media campaigns tend to resonate more with younger audiences, potentially due to higher engagement rates on these platforms.
-Gender Distribution: Both channels exhibit a balanced performance across genders, indicating no significant disparity in engagement.
----
-
 ## Recommendations
 
 Cost Optimization
